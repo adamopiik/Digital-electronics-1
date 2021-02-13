@@ -28,4 +28,4 @@ begin
 end architecture dataflow;
 ```
 
-Open this [link](https://www.edaplayground.com/x/skkH), to see code.
+Open this [link](https://www.edaplayground.com/x/skkH), https://www.edaplayground.com/x/skkH
