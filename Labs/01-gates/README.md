@@ -51,3 +51,7 @@ end architecture dataflow;
 ```
 
 Open this [link](https://www.edaplayground.com/x/8NWJ), https://www.edaplayground.com/x/8NWJ
+
+
+
+Z důvodu problému s nahráváním obrázku přikládám odkaz na github kde jsou obrázky ve složce images https://github.com/adamopiik/Digital-electronics-1/tree/main/Labs/01-gates.
