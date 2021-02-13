@@ -11,3 +11,7 @@
 | 1 | 1 | 1 | 0 |
 
 ![DE1](images/01.png)
+
+with nand and nor
+
+![DE1](images/02.png)
