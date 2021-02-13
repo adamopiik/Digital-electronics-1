@@ -32,6 +32,7 @@ Open this [link](https://www.edaplayground.com/x/skkH), https://www.edaplaygroun
 
 
 Distributive laws
+
 ![3](images/03.jpg)
 
 ```vhdl
