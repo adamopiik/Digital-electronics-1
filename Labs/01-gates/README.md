@@ -10,6 +10,7 @@
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
+only f
 ![DE1](images/01.png)
 
 with nand and nor
