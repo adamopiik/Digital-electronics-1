@@ -1,3 +1,5 @@
+link na repozitář https://github.com/adamopiik/Digital-electronics-1
+
 01-gates
 | **c** | **b** |**a** | **f(c,b,a)** |
 | :-: | :-: | :-: | :-: |
